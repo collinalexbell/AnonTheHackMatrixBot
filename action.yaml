@@ -1,4 +1,4 @@
-name: 'Anon bot'
+name: 'HackMatrix bot'
 description: 'Right now it will just sync todos'
 
 runs:
