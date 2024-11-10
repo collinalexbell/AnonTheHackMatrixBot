@@ -1,0 +1,6 @@
+name: 'Anon bot'
+description: 'Right now it will just sync todos'
+
+runs:
+  using: 'node16'
+  main: 'index.js'
