@@ -1,0 +1,15 @@
+{
+  "name": "anonthehackmatrixbot",
+  "version": "2.0.0",
+  "description": "A bot to manage hackmatrix technical stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.0"
+  }
+}
